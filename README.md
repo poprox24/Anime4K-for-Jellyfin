@@ -12,7 +12,7 @@ Needs the [JavaScript Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-
 2. In the dashboard, open JS Injector and add a script. Either:
    - use a **script URL** (make sure to enable "Allow external script URLs):
      ```
-     https://raw.githubusercontent.com/poprox24/Anime4K-for-Jellyfin/refs/heads/main/Anime4kJellyfin.js
+     https://cdn.jsdelivr.net/gh/poprox24/Anime4K-for-Jellyfin@main/Anime4kJellyfin.js
      ```
    - or paste in the contents of `Anime4kJellyfin.js`
 3. Save and hard-refresh the web client (Ctrl+Shift+R).
