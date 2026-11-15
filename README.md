@@ -4,6 +4,9 @@ Real-time [Anime4K](https://github.com/bloc97/Anime4K) upscaling in the Jellyfin
 
 A button next to the subtitles button opens a small panel: on/off, mode, max height.
 
+<img width="604" height="490" alt="image" src="https://github.com/user-attachments/assets/077066ef-3bbd-4dfb-8fc3-d3a271d926b1" />
+
+
 ## Install
 
 Needs the [JavaScript Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) plugin.
